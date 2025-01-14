@@ -3,7 +3,7 @@
 ##
 **Languages and Tools:**
 ##
-<p align="center">
+<p align="left">
   <img src="image/ros2.png" alt="ROS 2" width="100"/>
   <img src="image/GPT.png" alt="GPT" width="100"/>
   <img src="image/python.png" alt="Python" width="100"/>
