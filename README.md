@@ -3,7 +3,14 @@
 ##
 **Languages and Tools:**
 ##
-![ ](image/ros2.png) ![ ](image/GPT.png) ![ ](image/python.png) ![ ](image/CUBE.png) ![ ](image/solidworks.jpg)
+<p align="center">
+  <img src="image/ros2.png" alt="ROS 2" width="150"/>
+  <img src="image/GPT.png" alt="GPT" width="150"/>
+  <img src="image/python.png" alt="Python" width="150"/>
+  <img src="image/CUBE.png" alt="CUBE" width="150"/>
+  <img src="image/solidworks.jpg" alt="SolidWorks" width="150"/>
+</p>
+
 <!--
 **ZHANG-zzt/ZHANG-zzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
