@@ -1,7 +1,9 @@
 ## Hi there 👋
 🌱 I am currently studying ROS, large language models, and related research in the field of robot control.
+##
 **Languages and Tools:**
-![ ](images/ros2.png)
+##
+![ ](image/ros2.png)
 
 <!--
 **ZHANG-zzt/ZHANG-zzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
