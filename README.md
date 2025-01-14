@@ -6,7 +6,7 @@
 <p align="left">
   <img src="image/ros2.png" alt="ROS 2" width="100"/>
   <img src="image/GPT.png" alt="GPT" width="100"/>
-  <img src="image/python.png" alt="Python" width="100"/>
+  <img src="image/Python.png" alt="Python" width="100"/>
   <img src="image/CUBE.png" alt="CUBE" width="100"/>
   <img src="image/solidworks.jpg" alt="SolidWorks" width="100"/>
 </p>
