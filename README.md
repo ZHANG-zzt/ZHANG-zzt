@@ -3,8 +3,7 @@
 ##
 **Languages and Tools:**
 ##
-![ ](image/ros2.png)
-
+![ ](image/ros2.png) ![ ](image/GPT.png) ![ ](image/python.png) ![ ](image/CUBE.png) ![ ](image/solidworks.jpg)
 <!--
 **ZHANG-zzt/ZHANG-zzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
