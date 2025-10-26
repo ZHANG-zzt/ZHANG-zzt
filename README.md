@@ -1,5 +1,6 @@
 ## Hi there 👋
-🌱 I am currently studying ROS, large language models, and related research in the field of robot control.
+🌱 I am currently studying ROS, large language models, IsaacLab for reinforcement learning, and their applications in robot control research.
+
 ##
 **Languages and Tools:**
 ##
