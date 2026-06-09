@@ -9,7 +9,7 @@
   <img src="image/GPT.png" alt="GPT" width="100" height="80"/>
   <img src="image/Python.png" alt="Python" width="80" height="80"/>
   <img src="image/CUBE.png" alt="CUBE" width="100" height="80"/>
-  <img src="image/solidworks.jpg" alt="SolidWorks" width="100" height="80"/>
+  <img src="image/isaaclab.jpg" alt="SolidWorks" width="100" height="80"/>
 </p>
 
 
